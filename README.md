@@ -9,3 +9,5 @@ chmod +x -r $HOME/bash.firefox
 ```bash
 sh $HOME/bash.firefox/installer.sh
 ```
+### !NEEDS CONFIGURING - SHYFOX PLUGIN
+[shy-floating-panels.webm](https://github.com/Naezr/ShyFox/assets/95460152/eb4de9b8-2268-43c8-b006-53c1494b4ec2)

@@ -15,7 +15,7 @@ NC='\033[0m' # No Color
 ################################################################################################## FILE & FOLDER PATHS
 
 # Location
-APPLICATION="arch-suite"
+APPLICATION="firefox"
 BASE="$HOME/bash.$APPLICATION"
 FILES="$BASE/files"
 THEME="$FILES/theme"

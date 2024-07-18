@@ -19,6 +19,7 @@ APPLICATION="arch-suite"
 BASE="$HOME/bash.$APPLICATION"
 FILES="$BASE/files"
 THEME="$FILES/theme"
+PLUGIN="$FILES/plugin"
 
 
 ################################################################################################## INSTALLATION
